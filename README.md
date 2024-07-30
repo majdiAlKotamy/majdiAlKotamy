@@ -7,6 +7,10 @@
 
 <img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </h3>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
+
 <a href="https://www.linkedin.com/in/majdi-alkotamy/" target="blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </a>
