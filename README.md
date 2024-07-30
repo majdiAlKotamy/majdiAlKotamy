@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="60" height="50"/>
   </a>
   <a href="https://www.oracle.com/ae/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="50" height="50"/>
