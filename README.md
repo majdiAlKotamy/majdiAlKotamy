@@ -30,7 +30,7 @@
 🧑‍💻 Tech I work on:
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/java/" alt="solidity" width="65" height="65"/> 
+  <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/java/java-ar21.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/java/index.html&backText=Return+to+VectorLogoZone" alt="solidity" width="65" height="65"/> 
   <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="65" height="65"/> 
   <img src="https://avatars.githubusercontent.com/u/22205159?s=200&v=4" alt="truffle" width="65" height="65"/> 
   <img src="https://avatars.githubusercontent.com/u/20999355?s=200&v=4" alt="infura" width="65" height="65"/> 
