@@ -32,10 +32,10 @@
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="Postgres" width="50" height="50"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> 
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic search db" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic search db" width="60" height="50"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
