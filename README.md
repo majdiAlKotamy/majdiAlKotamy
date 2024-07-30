@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">I'm Majdi AlKotamy</h1>
 <p align="center">
-<h3 align="center"> Software Engineer, Backend Dev, Java Architecture, Data Analyst, Python AI Beginner🌟.</h3>
+<h3 align="center"> Software Engineer, Backend Dev, Java Architect, Data Analyst, Python AI Beginner🌟.</h3>
 <a href="https://www.linkedin.com/in/majdi-alkotamy/" target="blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </a>
@@ -16,7 +16,9 @@
 
 <h3 align="left"> ⚡ Projects Done by me :</h3>
 
-<h3 align="left"> 🧑‍💻 Tech I work on: </h3>
+<h2 align="left"> Tech I work on: </h2>
+
+<h3 align="left"> Back-End Qualifications </h3>
 
 <p align="left">
   <a href="https://www.oracle.com/ae/java/" target="_blank" rel="noreferrer">
@@ -24,7 +26,7 @@
   </a>
   
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="60" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="65" height="50"/>
   </a>
   
   <a href="https://www.oracle.com/ae/" target="_blank" rel="noreferrer">
@@ -40,7 +42,7 @@
   </a> 
   
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic search db" width="60" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic search db" width="65" height="50"/>
   </a>
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -67,6 +69,11 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
   </a>
   
+</p>
+
+<h3 align="left"> Data Analyst Qualifications </h3>
+<p align="left">
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
@@ -87,4 +94,3 @@
    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="pandas" width="50" height="50"/>
   </a>
 </p>
-
