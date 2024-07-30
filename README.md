@@ -3,11 +3,10 @@
 </div>
 <h1 align="center">I'm Majdi AlKotamy</h1>
 <p align="center">
-<h3 align="center"> Software Engineer, Backend Dev, Java Architect, Data Analyst, Python AI Beginner🌟.</h3>
+<h3 align="center"> Software Engineer, Backend Dev, Java Architect, Data Analyst, Python AI Beginner🌟.
 
 <img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" />
-
-
+</h3>
 <a href="https://www.linkedin.com/in/majdi-alkotamy/" target="blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </a>
