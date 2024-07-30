@@ -10,10 +10,15 @@
 <a href="https://www.linkedin.com/in/majdi-alkotamy/" target="blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </a>
+
+<a href="kotamyit@gmail.com" target="blank">
+  <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="majdi alkotamy" height="40" width="40" />
+</a>
+
+
 </p>
 <h3 align="left"> About me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
 
-<h3 align="left">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="45" /></h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=majdi-alkotamy&label=Profile%20views&color=0e75b6&style=flat" alt="majdi-alkotamy" />
