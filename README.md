@@ -4,7 +4,6 @@
 <h1 align="center">I'm Majdi AlKotamy</h1>
 <p align="center">
 <h3 align="center"> Software Engineer, Backend Dev, Java Architect, Data Analyst, Python AI Beginner🌟.
-
 <img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </h3>
 
@@ -13,6 +12,9 @@
 </a>
 </p>
 <h3 align="left"> About me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
+
+<h3 align="left">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="45" /></h3>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=majdi-alkotamy&label=Profile%20views&color=0e75b6&style=flat" alt="majdi-alkotamy" />
 </p>
@@ -100,6 +102,6 @@
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="50" height="50"/>
   </a>
-  </p>
+</p>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
