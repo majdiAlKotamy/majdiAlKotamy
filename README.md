@@ -4,6 +4,10 @@
 <h1 align="center">I'm Majdi AlKotamy</h1>
 <p align="center">
 <h3 align="center"> Software Engineer, Backend Dev, Java Architect, Data Analyst, Python AI Beginner🌟.</h3>
+
+<img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" />
+
+
 <a href="https://www.linkedin.com/in/majdi-alkotamy/" target="blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </a>
@@ -57,14 +61,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   </a> 
   
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="50" height="50"/>
-  </a>
-  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
   </a>
@@ -94,3 +90,14 @@
    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="pandas" width="50" height="50"/>
   </a>
 </p>
+
+<h3 align="left"> Technical Quilicfications </h3>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+  </a>
+
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="50" height="50"/>
+  </a>
+  </p>
