@@ -53,7 +53,7 @@
   </a> 
   
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic search db" width="65" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic search db" width="70" height="50"/>
   </a>
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
