@@ -92,7 +92,7 @@
   </a> 
 
   <a href="https://swagger.io/img/swagger_logo.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" alt="swagger" width="110" height="60"/>
+    <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" alt="swagger" width="115" height="50"/>
   </a> 
   
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
