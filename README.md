@@ -20,7 +20,9 @@
 <h3 align="left"> About me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
 
 <h4>
-Decisive Engineer with 6+ years in designing and implementing digital solutions for banking software, core banking, and digital wallets. Skilled in API development, data analysis, and business intelligence. Passionate about enhancing user experience and driving success in financial services, remittance, and currency exchange. Ready to join a data-driven team in the finance sector.
+
+Decisive Engineer with 6+ years in designing and implementing digital software solutions. Skilled in API manifacturing, software development, data analysis, and business intelligence. Expertise in business process design, software implementation, and delivery management. Passionate about enhancing user experience and driving success in financial services, remittance, and currency exchange. Ready to join a data-driven team in the finance sector. Explore my portfolio on GitHub.
+for banking software, core banking, and digital wallets.
 </h4>
 
 <p align="left">
