@@ -40,6 +40,10 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="65" height="50"/>
   </a>
   
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" width="65" height="50"/>
+  </a>
+  
   <a href="https://www.oracle.com/ae/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="50" height="50"/>
   </a> 
@@ -49,7 +53,7 @@
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="40" height="40"/>
   </a> 
   
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
@@ -58,6 +62,10 @@
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  </a>
+
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="apache_kafka" width="50" height="50"/>
   </a>
   
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -71,6 +79,12 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
   </a>
+
+ <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="50" height="50"/>
+  </a>
+
+
   
 </p>
 
@@ -107,6 +121,11 @@
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="50" height="50"/>
   </a>
+  
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+   <img src="hhttps://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu" width="50" height="50"/>
+  </a>
+  
 </p>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
