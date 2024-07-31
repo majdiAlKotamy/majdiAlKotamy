@@ -50,7 +50,7 @@
   </a> 
   
   <a href="https://www.enterprisedb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="Postgres" width="90" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="Postgres" width="90" height="65"/>
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -136,7 +136,7 @@
   </a>
   
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="pandas" width="85" height="60"/>
+   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="pandas" width="90" height="65"/>
   </a>
 </p>
 
