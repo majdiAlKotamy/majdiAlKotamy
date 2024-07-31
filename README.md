@@ -38,11 +38,11 @@
   </a>
   
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="80" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="90" height="50"/>
   </a>
   
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" width="80" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" width="90" height="50"/>
   </a>
   
   <a href="https://www.oracle.com/ae/" target="_blank" rel="noreferrer">
@@ -50,11 +50,11 @@
   </a> 
   
   <a href="https://www.enterprisedb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="Postgres" width="80" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="Postgres" width="90" height="50"/>
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="80" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="90" height="40"/>
   </a> 
 
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -62,7 +62,7 @@
   </a>
   
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic search db" width="80" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic search db" width="90" height="60"/>
   </a>
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -81,15 +81,15 @@
   </a>
     
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="70" height="45"/>
   </a>
 
  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="80" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="90" height="60"/>
   </a>
   
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="85" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="85" height="65"/>
   </a> 
 
   <a href="https://swagger.io/img/swagger_logo.svg" target="_blank" rel="noreferrer">
@@ -97,11 +97,11 @@
   </a> 
   
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
   </a> 
 
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="80" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="80" height="60"/>
   </a> 
   
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
@@ -146,6 +146,10 @@
   
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="ubuntu" width="80" height="50"/>
+  </a>
+
+  <a href="https://www.npci.org.in/what-we-do/upi/product-overview" target="_blank" rel="noreferrer">
+   <img src="https://www.vectorlogo.zone/logos/upi/upi-ar21.svg" alt="UPI" width="80" height="50"/>
   </a>
   
 </p>
