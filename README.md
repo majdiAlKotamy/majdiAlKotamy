@@ -19,6 +19,10 @@
 </p>
 <h3 align="left"> About me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
 
+<h4>
+Decisive Engineer with 6+ years in designing and implementing digital solutions for banking software, core banking, and digital wallets. Skilled in API development, data analysis, and business intelligence. Passionate about enhancing user experience and driving success in financial services, remittance, and currency exchange. Ready to join a data-driven team in the finance sector. Explore my portfolio on GitHub.
+
+</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=majdi-alkotamy&label=Profile%20views&color=0e75b6&style=flat" alt="majdi-alkotamy" />
@@ -142,7 +146,7 @@
 
 </br>
 
-<h3 align="left"> Technical Quilicfications </h3>
+<h3 align="left"> Technical background </h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="50"/>
