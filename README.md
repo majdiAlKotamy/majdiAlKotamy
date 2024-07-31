@@ -95,7 +95,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="50"/>
   </a> 
 
-  <a href="https://upload.wikimedia.org/wikipedia/commons/6/60/Swagger_logo.svg" target="_blank" rel="noreferrer">
+  <a href="https://swagger.io/img/swagger_logo.svg" target="_blank" rel="noreferrer">
     <img src="static/library/swagger.svg" alt="swagger" width="80" height="50"/>
   </a> 
 
