@@ -95,7 +95,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="50"/>
   </a> 
 
-  <a href="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.png" target="_blank" rel="noreferrer">
+  <a href="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" target="_blank" rel="noreferrer">
     <img src="static/library/swagger.svg" alt="swagger" width="80" height="50"/>
   </a> 
 
