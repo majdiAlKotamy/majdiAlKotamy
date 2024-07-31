@@ -68,15 +68,18 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="50"/>
   </a>
+  
+</p>
+
+<h3 align="left"> Platforms Tech </h3>
+
+<p align="left">
+
 
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="apache_kafka" width="80" height="50"/>
   </a>
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="50"/>
-  </a>
-  
+    
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="50"/>
   </a>
@@ -104,9 +107,10 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="80" height="50"/>
   </a> 
-  
-</p>
 
+
+</p>
+  
 <h3 align="left"> Data Analyst Qualifications </h3>
 <p align="left">
 
