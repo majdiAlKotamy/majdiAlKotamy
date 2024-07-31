@@ -95,7 +95,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="50"/>
   </a> 
 
-  <a href="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" target="_blank" rel="noreferrer">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/6/60/Swagger_logo.svg" target="_blank" rel="noreferrer">
     <img src="static/library/swagger.svg" alt="swagger" width="80" height="50"/>
   </a> 
 
@@ -130,7 +130,7 @@
   </a>
   
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="pandas" width="85" height="50"/>
+   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="pandas" width="85" height="60"/>
   </a>
 </p>
 
