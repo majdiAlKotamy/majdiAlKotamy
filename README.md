@@ -56,6 +56,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="80" height="40"/>
   </a> 
+
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" width="80" height="40"/>
+  </a>
   
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic search db" width="80" height="50"/>
@@ -73,10 +77,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="50"/>
   </a>
   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="50"/>
-  </a> 
-  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="50"/>
   </a>
@@ -84,6 +84,14 @@
  <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="80" height="50"/>
   </a>
+  
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="80" height="50"/>
+  </a> 
+  
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="50"/>
+  </a> 
   
 </p>
 
@@ -95,7 +103,7 @@
   </a>
   
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="80" height="50"/>
   </a>
   
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -122,7 +130,7 @@
   </a>
   
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-   <img src="hhttps://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu" width="80" height="50"/>
+   <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="ubuntu" width="80" height="50"/>
   </a>
   
 </p>
