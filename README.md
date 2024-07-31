@@ -71,6 +71,7 @@
   
 </p>
 
+</br>
 <h3 align="left"> Tech Technologies </h3>
 
 <p align="left">
@@ -79,7 +80,11 @@
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="apache_kafka" width="80" height="50"/>
   </a>
-    
+
+  <a href="https://nats.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/natsio/natsio-ar21.svg" alt="nats" width="80" height="50"/>
+  </a>
+  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="70" height="45"/>
   </a>
@@ -109,7 +114,8 @@
   </a> 
 
 </p>
-  
+
+  </br>
 <h3 align="left"> Data Analyst background </h3>
 <p align="left">
 
@@ -133,6 +139,8 @@
    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="pandas" width="85" height="60"/>
   </a>
 </p>
+
+</br>
 
 <h3 align="left"> Technical Quilicfications </h3>
 <p align="left">
