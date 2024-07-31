@@ -90,13 +90,13 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="85" height="50"/>
   </a> 
+
+  <a href="https://swagger.io/img/swagger_logo.svg" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" alt="swagger" width="110" height="60"/>
+  </a> 
   
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-  </a> 
-
-  <a href="https://swagger.io/img/swagger_logo.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" alt="swagger" width="100" height="70"/>
   </a> 
 
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
