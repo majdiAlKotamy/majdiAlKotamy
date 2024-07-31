@@ -15,7 +15,6 @@
   <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="majdi alkotamy" height="40" width="40" />
 </a>
 
-
 </p>
 <h3 align="left"> About me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
 
@@ -30,7 +29,7 @@
 <h2 align="left"> Tech I work on: </h2>
 
 
-<h3 align="left"> Back-End Qualifications </h3>
+<h3 align="left"> Back-End background </h3>
 
 <p align="left">
   <a href="https://www.oracle.com/ae/java/" target="_blank" rel="noreferrer">
@@ -71,7 +70,7 @@
   
 </p>
 
-<h3 align="left"> Platforms Tech </h3>
+<h3 align="left"> Tech Technologies </h3>
 
 <p align="left">
 
@@ -89,11 +88,11 @@
   </a>
   
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="80" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="85" height="50"/>
   </a> 
   
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="50"/>
   </a> 
 
   <a href="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.png" target="_blank" rel="noreferrer">
@@ -101,7 +100,7 @@
   </a> 
 
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="80" height="50"/>
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="65" height="50"/>
   </a> 
 
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
@@ -111,7 +110,7 @@
 
 </p>
   
-<h3 align="left"> Data Analyst Qualifications </h3>
+<h3 align="left"> Data Analyst background </h3>
 <p align="left">
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -131,7 +130,7 @@
   </a>
   
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="pandas" width="80" height="50"/>
+   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="pandas" width="85" height="50"/>
   </a>
 </p>
 
