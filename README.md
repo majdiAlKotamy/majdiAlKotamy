@@ -92,6 +92,18 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="50"/>
   </a> 
+
+  <a href="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.png" target="_blank" rel="noreferrer">
+    <img src="static/library/swagger.svg" alt="swagger" width="80" height="50"/>
+  </a> 
+
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="80" height="50"/>
+  </a> 
+
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="80" height="50"/>
+  </a> 
   
 </p>
 
