@@ -123,6 +123,10 @@ Proficient in the full SDLC, API development, data analysis, and business intell
   <a href="https://www.npci.org.in/what-we-do/upi/product-overview" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/upi/upi-ar21.svg" alt="UPI" width="80" height="50"/>
   </a>
+
+  <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+   <img src="  https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" width="80" height="50"/>
+  </a>
   
 </p>
 
