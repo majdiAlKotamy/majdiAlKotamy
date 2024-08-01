@@ -6,9 +6,9 @@
 <img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </h1>
 
-<h3 align="left"> About Me: </h3>
+<h2 align="left"> About Me: </h2>
 
-<h4 align="center"> Aficionado of coffee ☕ </h4>
+<h3 align="center"> Aficionado of coffee ☕ </h3>
 
 <h4>
 
