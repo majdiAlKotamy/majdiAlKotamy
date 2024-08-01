@@ -36,7 +36,7 @@
 <h2 align="left"> Tech I work on: </h2>
 
 
-<h3 align="left"> Back-End background </h3>
+<h3 align="left"> Back-End background  </h3>
 
 <p align="left">
   <a href="https://www.oracle.com/ae/java/" target="_blank" rel="noreferrer">
