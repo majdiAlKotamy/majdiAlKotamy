@@ -6,7 +6,7 @@
 <img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </h1>
 
-<h3 align="left"> ☕ Carrer Objective:</h3>
+<h3 align="left"> About Me:</h3>
 
 <h4>
 
@@ -22,10 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=majdi-alkotamy&label=Profile%20views&color=0e75b6&style=flat" alt="majdi-alkotamy" />
 </p>
 
-<h2 align="left"> Tech I work on: </h2>
-
-
-<h3 align="left"> Back-End background </h3>
+<h2 align="left"> Proficiencies </h2>
 
 <p align="left">
   <a href="https://www.oracle.com/ae/java/" target="_blank" rel="noreferrer">
@@ -67,8 +64,6 @@
 </p>
 
 </br>
-<h3 align="left"> Tech Technologies </h3>
-
 <p align="left">
 
 
@@ -131,7 +126,7 @@
 </p>
 
   </br>
-<h3 align="left"> Data Analyst background </h3>
+
 <p align="left">
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -162,7 +157,6 @@
 
 </br>
 
-<h3 align="left"> Technical background </h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="50"/>
