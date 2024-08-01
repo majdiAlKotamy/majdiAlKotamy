@@ -125,7 +125,7 @@ Proficient in the full SDLC, API development, data analysis, and business intell
   </a>
 
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-   <img src="  https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" width="80" height="50"/>
+   <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" width="80" height="50"/>
   </a>
   
 </p>
