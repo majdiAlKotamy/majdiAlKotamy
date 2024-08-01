@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=majdi-alkotamy&label=Profile%20views&color=0e75b6&style=flat" alt="majdi-alkotamy" />
 </p>
 
-<h3 align="left"> Published Articles </h3>
+<h3 align="left"> Published Parpers </h3>
 
 <a href="https://www.linkedin.com/pulse/nats-jetstream-game-changer-message-queues-majdi-alkotamy-z2wnf/?trackingId=CTAkwlvXRrKug0Xbf5lCdw%3D%3D"> NATS JetStream Message Queue - Usage experience in Java </a>
 
