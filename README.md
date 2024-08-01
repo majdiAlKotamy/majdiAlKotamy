@@ -42,7 +42,7 @@
   </a> 
   
   <a href="https://www.enterprisedb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="Postgres" width="90" height="65"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="Postgres" width="90" height="50"/>
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
