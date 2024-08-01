@@ -120,6 +120,10 @@ Proficient in the full SDLC, API development, data analysis, and business intell
     <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="50" height="50"/>
   </a> 
 
+  <a href="https://www.npci.org.in/what-we-do/upi/product-overview" target="_blank" rel="noreferrer">
+   <img src="https://www.vectorlogo.zone/logos/upi/upi-ar21.svg" alt="UPI" width="80" height="50"/>
+  </a>
+  
 </p>
 
   </br>
@@ -162,11 +166,9 @@ Proficient in the full SDLC, API development, data analysis, and business intell
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="ubuntu" width="80" height="50"/>
   </a>
-
-  <a href="https://www.npci.org.in/what-we-do/upi/product-overview" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/upi/upi-ar21.svg" alt="UPI" width="80" height="50"/>
-  </a>
   
 </p>
+
+<h4> Thank you for checking out my profile! Let's collaborate and create something outstanding together. </h4>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
