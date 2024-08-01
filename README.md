@@ -131,6 +131,10 @@ Proficient in the full SDLC, API development, data analysis, and business intell
   <a href="https://cloud.google.com/apigee" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/apigee/apigee-ar21.svg" alt="apigee" width="80" height="50"/>
   </a>
+
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon web services" width="80" height="50"/>
+  </a>
   
 </p>
 
