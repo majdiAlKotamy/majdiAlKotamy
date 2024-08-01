@@ -26,7 +26,7 @@
 
 <h2 align="left"> Published Articles </h2>
 
-<h4> NATS JetStream Message Queue - usage experience in Java <a href="https://www.linkedin.com/posts/majdi-alkotamy_nats-jetstream-message-queue-usage-experience-activity-7221047653747347456-wCk5?utm_source=share&utm_medium=member_desktop"> </h4>
+<a href="https://www.linkedin.com/posts/majdi-alkotamy_nats-jetstream-message-queue-usage-experience-activity-7221047653747347456-wCk5?utm_source=share&utm_medium=member_desktop"> <b> NATS JetStream Message Queue - usage experience in Java </b>, link </a>
 
 <h2 align="left"> Proficiencies </h2>
 
