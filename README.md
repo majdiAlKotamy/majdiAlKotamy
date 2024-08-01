@@ -21,8 +21,10 @@
 
 <h4>
 
-Decisive Engineer with 6+ years in designing and implementing digital software solutions. Skilled in API manifacturing, software development, data analysis, and business intelligence. Expertise in business process design, software implementation, and delivery management. Passionate about enhancing user experience and driving success in financial services, remittance, and currency exchange. Ready to join a data-driven team in the finance sector. Explore my portfolio on GitHub.
-for banking software, core banking, and digital wallets.
+Decisive Software Engineer with over 6 years of expertise in designing and deploying innovative solutions. Holding a Bachelor's degree in Informatics Engineering with a specialization in AI from Arab International University, I excel in integrating financial core systems with advanced payment gateways, leveraging SQL Database Administration, API Management, and Java backend development with Spring Boot for seamless, reliable outcomes.
+
+Proficient in the full SDLC, API development, data analysis, and business intelligence. Experienced in developing solutions for financial services, including digital banking solutions, exchanges, remittances, digital wallets, and cross-border payments. Well-versed in AI and data science, with skills in Python, ETL processes, data cleaning, processing, and visualization using Microsoft BI tools. Driven by continuous learning and a commitment to excellence, I aim to bring innovative insights to the finance sector.
+
 </h4>
 
 <p align="left">
