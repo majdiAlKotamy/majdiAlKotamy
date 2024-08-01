@@ -6,7 +6,7 @@
 <img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </h1>
 
-<h3 align="left"> About Me: </h3>
+<h3 align="left"> about me: </h3>
 
 <h4>
 
@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=majdi-alkotamy&label=Profile%20views&color=0e75b6&style=flat" alt="majdi-alkotamy" />
 </p>
 
-<h3 align="left"> Published Parpers </h3>
+<h3 align="left"> published papers </h3>
 
 <a href="https://www.linkedin.com/pulse/nats-jetstream-game-changer-message-queues-majdi-alkotamy-z2wnf/?trackingId=CTAkwlvXRrKug0Xbf5lCdw%3D%3D"> NATS JetStream Message Queue - Usage experience in Java </a>
 
