@@ -26,7 +26,7 @@
 
 📌 Proficient in the full SDLC, API development, data analysis, and business intelligence. Experienced in developing solutions for financial services, including digital banking solutions, exchanges, remittances, digital wallets, and cross-border payments.
 
-📌 Well-versed in AI and data science, with skills in Python, ETL processes, data cleaning, processing, and visualization using Microsoft BI tools. Driven by continuous learning and a commitment to excellence, I aim to bring innovative insights to the finance sector.
+📌 Well-versed in AI and data science, with skills in Python, ETL, data cleaning, processing, and visualization using Microsoft BI tools. Driven by continuous learning and a commitment to excellence, I aim to bring innovative insights to the finance sector.
 
 </h4>
 
