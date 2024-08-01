@@ -1,7 +1,8 @@
 <div>
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=800&height=100&lines=Hello+World+%F0%9F%91%8B;مرحباً%F0%9F%91%8B">
 </div>
-<h1 align="center">I'm Majdi AlKotamy 
+<h1 align="center"> Thank you for checking out my profile! Let's collaborate and create something outstanding together.
+
 <img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </h1>
 <p align="center">
@@ -189,6 +190,5 @@
   
 </p>
 
-<h4> Thank you for checking out my profile! Let's collaborate and create something outstanding together. </h4>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
