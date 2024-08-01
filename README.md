@@ -8,9 +8,9 @@
 
 <h3 align="left"> About Me: </h3>
 
-<h3 align="left"> Aficionado of coffee ☕ </h3>
-
 <h4>
+
+📌 Aficionado of coffee ☕ 
 
 📌 Decisive Software Engineer with over 6 years of expertise in designing and deploying innovative solutions. Holding a Bachelor's degree in Informatics Engineering with a specialization in AI from Arab International University, I excel in integrating financial core systems with advanced payment gateways, leveraging SQL Database Administration, API Management, and Java backend development with Spring Boot for seamless, reliable outcomes.
 
