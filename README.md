@@ -6,7 +6,7 @@
 <img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </h1>
 
-<h3 align="left"> Carrer Objective:</h3>
+<h3 align="left"> ☕ Carrer Objective:</h3>
 
 <h4>
 
