@@ -17,7 +17,7 @@
 </a>
 
 </p>
-<h3 align="left"> Carrer Objective: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
+<h3 align="left"> Carrer Objective:</h3>
 
 <h4>
 
@@ -36,7 +36,7 @@
 <h2 align="left"> Tech I work on: </h2>
 
 
-<h3 align="left"> Back-End background  </h3>
+<h3 align="left"> Back-End background </h3>
 
 <p align="left">
   <a href="https://www.oracle.com/ae/java/" target="_blank" rel="noreferrer">
