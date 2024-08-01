@@ -26,7 +26,7 @@
 
 <h3 align="left"> Published Articles </h3>
 
-<a href="https://www.linkedin.com/pulse/nats-jetstream-game-changer-message-queues-majdi-alkotamy-z2wnf/?trackingId=CTAkwlvXRrKug0Xbf5lCdw%3D%3D"> <b> NATS JetStream Message Queue - Usage experience in Java </b> </a>
+<a href="https://www.linkedin.com/pulse/nats-jetstream-game-changer-message-queues-majdi-alkotamy-z2wnf/?trackingId=CTAkwlvXRrKug0Xbf5lCdw%3D%3D"> NATS JetStream Message Queue - Usage experience in Java </a>
 
 <a href="https://www.linkedin.com/posts/majdi-alkotamy_java-swagger-api-activity-7223271666825478145-ttkk?utm_source=share&utm_medium=member_desktop"> Java API Swagger Documentation </a>
 
