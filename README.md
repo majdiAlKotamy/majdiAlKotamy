@@ -17,7 +17,7 @@
 </a>
 
 </p>
-<h3 align="left"> About me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
+<h3 align="left"> Carrer Objective: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
 
 <h4>
 
