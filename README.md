@@ -58,7 +58,7 @@
   </a>
 
   <a href="https://www.enterprisedb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="Postgres" width="90" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="Postgres" width="70" height="50"/>
   </a>
 </p>
 
