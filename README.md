@@ -132,8 +132,12 @@ Proficient in the full SDLC, API development, data analysis, and business intell
    <img src="https://www.vectorlogo.zone/logos/apigee/apigee-ar21.svg" alt="apigee" width="80" height="50"/>
   </a>
 
+  <a href="https://camel.apache.org/" target="_blank" rel="noreferrer">
+   <img src="https://camel.apache.org/_/img/logo-d-a567cee6fa.svg" alt="apache_camel" width="80" height="50"/>
+  </a>
+  
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon web services" width="80" height="50"/>
+   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon_web_services" width="80" height="50"/>
   </a>
   
 </p>
@@ -161,6 +165,11 @@ Proficient in the full SDLC, API development, data analysis, and business intell
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="pandas" width="90" height="65"/>
   </a>
+
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="apache_spark" width="90" height="65"/>
+  </a>
+  
 </p>
 
 </br>
