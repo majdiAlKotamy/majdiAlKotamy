@@ -5,7 +5,7 @@
 <img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </h1>
 <p align="center">
-<h3 align="center"> Software Engineer, Backend Dev, Java Architect, Data Analyst, Python AI Beginner🌟.
+<h3 align="center"> Software Engineer, Backend Dev, Java Architect, Data Analyst, Python AI Beginner.
 </h3>
 
 <a href="https://www.linkedin.com/in/majdi-alkotamy/" target="blank">
@@ -21,18 +21,17 @@
 
 <h4>
 
-Decisive Software Engineer with over 6 years of expertise in designing and deploying innovative solutions. Holding a Bachelor's degree in Informatics Engineering with a specialization in AI from Arab International University, I excel in integrating financial core systems with advanced payment gateways, leveraging SQL Database Administration, API Management, and Java backend development with Spring Boot for seamless, reliable outcomes.
+📌 Decisive Software Engineer with over 6 years of expertise in designing and deploying innovative solutions. Holding a Bachelor's degree in Informatics Engineering with a specialization in AI from Arab International University, I excel in integrating financial core systems with advanced payment gateways, leveraging SQL Database Administration, API Management, and Java backend development with Spring Boot for seamless, reliable outcomes.
 
-Proficient in the full SDLC, API development, data analysis, and business intelligence. Experienced in developing solutions for financial services, including digital banking solutions, exchanges, remittances, digital wallets, and cross-border payments. Well-versed in AI and data science, with skills in Python, ETL processes, data cleaning, processing, and visualization using Microsoft BI tools. Driven by continuous learning and a commitment to excellence, I aim to bring innovative insights to the finance sector.
+📌 Proficient in the full SDLC, API development, data analysis, and business intelligence. Experienced in developing solutions for financial services, including digital banking solutions, exchanges, remittances, digital wallets, and cross-border payments.
+
+📌 Well-versed in AI and data science, with skills in Python, ETL processes, data cleaning, processing, and visualization using Microsoft BI tools. Driven by continuous learning and a commitment to excellence, I aim to bring innovative insights to the finance sector.
 
 </h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=majdi-alkotamy&label=Profile%20views&color=0e75b6&style=flat" alt="majdi-alkotamy" />
 </p>
-
-
-<h3 align="left"> ⚡ Projects Done by me :</h3>
 
 <h2 align="left"> Tech I work on: </h2>
 
