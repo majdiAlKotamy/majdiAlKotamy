@@ -84,7 +84,7 @@
   </a>
   
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="85" height="65"/>
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="90" height="70"/>
   </a> 
 
   <a href="https://swagger.io/img/swagger_logo.svg" target="_blank" rel="noreferrer">
@@ -92,7 +92,7 @@
   </a> 
   
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a> 
 
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
@@ -100,11 +100,11 @@
   </a> 
   
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="50" height="50"/>
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/>
   </a> 
 
   <a href="https://www.npci.org.in/what-we-do/upi/product-overview" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/upi/upi-ar21.svg" alt="UPI" width="80" height="50"/>
+   <img src="https://www.vectorlogo.zone/logos/upi/upi-ar21.svg" alt="UPI" width="60" height="50"/>
   </a>
 
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
