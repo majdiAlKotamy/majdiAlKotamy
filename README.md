@@ -10,7 +10,7 @@
 
 <h4>
 
-📌 Aficionado of coffee ☕ 
+☕ Aficionado of coffee ☕
 
 📌 Decisive Software Engineer with over 6 years of expertise in designing and deploying innovative solutions. Holding a Bachelor's degree in Informatics Engineering with a specialization in AI from Arab International University, I excel in integrating financial core systems with advanced payment gateways, leveraging SQL Database Administration, API Management, and Java backend development with Spring Boot for seamless, reliable outcomes.
 
@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=majdi-alkotamy&label=Profile%20views&color=0e75b6&style=flat" alt="majdi-alkotamy" />
 </p>
 
-<h2 align="left"> Published Articles </h2>
+<h3 align="left"> Published Articles </h3>
 
 <a href="https://www.linkedin.com/pulse/nats-jetstream-game-changer-message-queues-majdi-alkotamy-z2wnf/?trackingId=CTAkwlvXRrKug0Xbf5lCdw%3D%3D"> <b> NATS JetStream Message Queue - Usage experience in Java </b> </a>
 
