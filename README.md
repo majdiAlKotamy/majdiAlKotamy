@@ -5,17 +5,7 @@
 
 <img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" />
 </h1>
-<p align="center">
 
-<a href="https://www.linkedin.com/in/majdi-alkotamy/" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="majdi alkotamy" height="40" width="40" />
-</a>
-
-<a href="kotamyit@gmail.com" target="blank">
-  <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="majdi alkotamy" height="40" width="40" />
-</a>
-
-</p>
 <h3 align="left"> Carrer Objective:</h3>
 
 <h4>
@@ -188,5 +178,6 @@
   
 </p>
 
+</br>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
