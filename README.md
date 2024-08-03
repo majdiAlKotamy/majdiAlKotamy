@@ -18,6 +18,13 @@
 
 📌 Well-versed in AI and data science, with skills in Python, ETL, data cleaning, processing, and visualization using Microsoft BI tools. Driven by continuous learning and a commitment to excellence, I aim to bring innovative insights to the finance sector.
 
+📌 <a href="https://drive.google.com/file/d/1P19bUQY5M6fuhhMXD6tcXGLRXHB3hOd6/view"> Data Analyst Internship Online Program </a>
+
+📌 <a href="https://www.linkedin.com/pulse/nats-jetstream-game-changer-message-queues-majdi-alkotamy-z2wnf/?trackingId=CTAkwlvXRrKug0Xbf5lCdw%3D%3D"> NATS JetStream Message Queue - Usage experience in Java </a>
+
+📌 <a href="https://www.linkedin.com/pulse/nats-jetstream-game-changer-message-queues-majdi-alkotamy-z2wnf/?trackingId=CTAkwlvXRrKug0Xbf5lCdw%3D%3D"> NATS JetStream Message Queue - Usage experience in Java </a>
+
+📌 <a href="https://www.linkedin.com/pulse/nats-jetstream-game-changer-message-queues-majdi-alkotamy-z2wnf/?trackingId=CTAkwlvXRrKug0Xbf5lCdw%3D%3D"> NATS JetStream Message Queue - Usage experience in Java </a>
 </h4>
 
 <p align="left">
