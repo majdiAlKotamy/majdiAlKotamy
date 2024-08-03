@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/posts/majdi-alkotamy_java-swagger-api-activity-7223271666825478145-ttkk?utm_source=share&utm_medium=member_desktop"> Java API Swagger Documentation </a>
 
 <p align="left">
-<h4 align="left"> Certificates of Achievements in </h4>
+<h4 align="left"> Certificates of Achievements in 
 
  <a href="https://www.udemy.com/certificate/UC-af4872f1-1112-4162-be11-9a683fef4ecc/"> Java 17 Programming Master Class from Udemy </a>
 
@@ -50,7 +50,7 @@
  <a href="https://www.udemy.com/certificate/UC-0899bd41-87f7-47e4-beb6-bce353ef6603/"> Git & GitHub Bootcamp from Udemy </a>
 
  <a href="https://drive.google.com/file/d/1o_t2ACTO8qew2v2sNA7Tr1d93C99d844/view"> RedHat Linux System Administration  </a>
-
+</h4>
 </p>
 
 
