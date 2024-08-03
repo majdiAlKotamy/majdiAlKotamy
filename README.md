@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=majdi-alkotamy&label=Profile%20views&color=0e75b6&style=flat" alt="majdi-alkotamy" />
 </p>
 
-<h3 align="left"> Certificates of Achievements in </h3>
+<h4 align="left"> Certificates of Achievements in </h4>
 
 📌 <a href="https://www.udemy.com/certificate/UC-af4872f1-1112-4162-be11-9a683fef4ecc/"> Java 17 Programming Master Class from Udemy </a>
 
