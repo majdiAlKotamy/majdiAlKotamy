@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=800&height=100&lines=Hello+World+%F0%9F%91%8B;مرحباً%F0%9F%91%8B">
 </div>
-<h1 align="center">Thank you for checking out my profile! Let's collaborate and create something outstanding together.</h1>
-
-<img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" />
+<h1 align="center">Thank you for checking out my profile! Let's collaborate and create something outstanding together <img align="center" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-icon.svg" alt="majdi alkotamy" height="40" width="40" /> </h1>
 
 <h3 align="left">About me:</h3>
 
