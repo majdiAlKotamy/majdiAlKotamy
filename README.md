@@ -18,18 +18,31 @@
 
 📌 Well-versed in AI and data science, with skills in Python, ETL, data cleaning, processing, and visualization using Microsoft BI tools. Driven by continuous learning and a commitment to excellence, I aim to bring innovative insights to the finance sector.
 
-📌 <a href="https://drive.google.com/file/d/1P19bUQY5M6fuhhMXD6tcXGLRXHB3hOd6/view"> Data Analyst Internship Online Program </a>
-
-📌 <a href="https://www.linkedin.com/pulse/nats-jetstream-game-changer-message-queues-majdi-alkotamy-z2wnf/?trackingId=CTAkwlvXRrKug0Xbf5lCdw%3D%3D"> NATS JetStream Message Queue - Usage experience in Java </a>
-
-📌 <a href="https://www.linkedin.com/pulse/nats-jetstream-game-changer-message-queues-majdi-alkotamy-z2wnf/?trackingId=CTAkwlvXRrKug0Xbf5lCdw%3D%3D"> NATS JetStream Message Queue - Usage experience in Java </a>
-
-📌 <a href="https://www.linkedin.com/pulse/nats-jetstream-game-changer-message-queues-majdi-alkotamy-z2wnf/?trackingId=CTAkwlvXRrKug0Xbf5lCdw%3D%3D"> NATS JetStream Message Queue - Usage experience in Java </a>
 </h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=majdi-alkotamy&label=Profile%20views&color=0e75b6&style=flat" alt="majdi-alkotamy" />
 </p>
+
+<h3 align="left"> Certificates of Achievements in </h3>
+
+📌 <a href="https://www.udemy.com/certificate/UC-af4872f1-1112-4162-be11-9a683fef4ecc/"> Java 17 Programming Master Class from Udemy </a>
+
+📌 <a href="https://www.udemy.com/certificate/UC-f9a7c7bb-ac49-401d-8045-537b9d0f860e/"> SWIFT Message Types - MT and MX ISO 20022 from Udemy </a>
+
+📌 <a href="https://drive.google.com/file/d/1P19bUQY5M6fuhhMXD6tcXGLRXHB3hOd6/view"> Data Analyst Internship Online Program from Mentorness</a>
+
+📌 <a href="https://www.udemy.com/certificate/UC-ed0970b5-0bac-4b8a-862b-571ea0d5de4c/"> Data Analyst Bootcamp in SQL, Python, and Power BI from Udemy </a>
+
+📌 <a href="https://www.udemy.com/certificate/UC-7c141111-d298-42df-8086-242fe736ccfa/"> Pyhton Programming Bootcamp from Udemy </a>
+
+📌 <a href="https://www.coursera.org/account/accomplishments/verify/C62LM544J7J8"> Docker Bootcamp Coursefrom Coursera </a>
+
+📌 <a href="https://www.udemy.com/certificate/UC-5b7e0b2f-6219-4265-92ba-50382541ce84/"> Ultimate AWS Solutions Architect Associate from Udemy </a>
+
+📌 <a href="https://www.udemy.com/certificate/UC-0899bd41-87f7-47e4-beb6-bce353ef6603/"> Git & GitHub Bootcamp from Udemy </a>
+
+📌 <a href="https://drive.google.com/file/d/1o_t2ACTO8qew2v2sNA7Tr1d93C99d844/view"> RedHat Linux System Administration  </a>
 
 <h3 align="left"> Published papers: </h3>
 
