@@ -9,7 +9,7 @@
 
 ☕ Aficionado of coffee ☕
 
-📌 Decisive Software Engineer with over 6 years of expertise in designing and deploying innovative solutions. Holding a Bachelor's degree in Informatics Engineering with a specialization in AI from Arab International University, I excel in integrating financial core systems with advanced payment gateways, leveraging SQL Database Administration, API Management, and Java backend development with Spring Boot for seamless, reliable outcomes.
+📌 Decisive Software Engineer with over 7 years of expertise in designing and deploying innovative solutions. Holding a Bachelor's degree in Informatics Engineering with a specialization in AI from Arab International University, I excel in integrating financial core systems with advanced payment gateways, leveraging SQL Database Administration, API Management, and Java backend development with Spring Boot for seamless, reliable outcomes.
 
 📌 Proficient in the full SDLC, API development, data analysis, and business intelligence. Experienced in developing solutions for financial services, including digital banking solutions, exchanges, remittances, digital wallets, and cross-border payments.
 
