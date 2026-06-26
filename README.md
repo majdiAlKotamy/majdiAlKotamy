@@ -7,13 +7,20 @@
 
 <h4>
 
-☕ Aficionado of coffee ☕
+☕ Coffee Aficionado | Technology Executive & AI Strategist ☕
 
-📌 Decisive Software Engineer with over 7 years of expertise in designing and deploying innovative solutions. Holding a Bachelor's degree in Informatics Engineering with a specialization in AI from Arab International University, I excel in integrating financial core systems with advanced payment gateways, leveraging SQL Database Administration, API Management, and Java backend development with Spring Boot for seamless, reliable outcomes.
+Decisive IT Leader with over 8 years of experience driving digital transformation and managing the delivery of complex enterprise solutions. 
+With a strong academic foundation—including an Applied Data Science Program from MIT Professional Education **Massachusetts Institute of Technology** and a Bachelor's in Informatics Engineering specializing in AI— 
+I excel at bridging the gap between advanced technology and strategic business objectives within the Fintech, E-commerce, and Technology sectors.
 
-📌 Proficient in the full SDLC, API development, data analysis, and business intelligence. Experienced in developing solutions for financial services, including digital banking solutions, exchanges, remittances, digital wallets, and cross-border payments.
+Leadership & Domain Expertise:
 
-📌 Well-versed in AI and data science, with skills in Python, ETL, data cleaning, processing, and visualization using Microsoft BI tools. Driven by continuous learning and a commitment to excellence, I aim to bring innovative insights to the finance sector.
+📌 Strategic Delivery: Proven track record of orchestrating the full software development lifecycle for high-scale financial services, including digital banking platforms, exchanges, digital wallets, and cross-border payment ecosystems.
+
+📌 Data-Driven Leadership: Championing the integration of artificial intelligence, data science, and business intelligence to optimize operations, enhance customer experiences, and drive revenue growth.
+
+📌 Engineering Excellence: Passionate about building and mentoring high-performing, cross-functional engineering teams, fostering a culture of continuous learning, and ensuring the delivery of robust, scalable, and secure technology architectures.
+
 
 </h4>
 
