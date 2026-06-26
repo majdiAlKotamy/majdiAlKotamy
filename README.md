@@ -21,11 +21,7 @@ Leadership & Domain Expertise:
 
 📌 Engineering Excellence: Passionate about building and mentoring high-performing, cross-functional engineering teams, fostering a culture of continuous learning, and ensuring the delivery of robust, scalable, and secure technology architectures.
 
-
 </h4>
-
-
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=majdi-alkotamy&label=Profile%20views&color=0e75b6&style=flat" alt="majdi-alkotamy" />
@@ -34,7 +30,7 @@ Leadership & Domain Expertise:
 <h4 align="left">Acadimac Portfolio:</h4>
 
 <ul>
-  <li><a href="https://olympus.mygreatlearning.com/eportfolio">Applied AI and Data Science Program from MIT Professional Education Massachusetts Institute of Technology - USA</a></li>
+  <li><a href="https://olympus.mygreatlearning.com/eportfolio">Applied AI and Data Science Program - Massachusetts Institute of Technology - USA</a></li>
 </ul>
 
 <h4 align="left">Published papers:</h4>
